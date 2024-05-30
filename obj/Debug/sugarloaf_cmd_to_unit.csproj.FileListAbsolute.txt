@@ -1,0 +1,52 @@
+C:\Users\anocha\Documents\Visual Studio 2015\Projects\mini_projeck_template\sugarloaf_cmd_to_unit\obj\Debug\sugarloaf_cmd_to_unit.csprojResolveAssemblyReference.cache
+C:\Users\anocha\Documents\Visual Studio 2015\Projects\mini_projeck_template\sugarloaf_cmd_to_unit\bin\Debug\sugarloaf_cmd_to_unit.exe.config
+C:\Users\anocha\Documents\Visual Studio 2015\Projects\mini_projeck_template\sugarloaf_cmd_to_unit\bin\Debug\sugarloaf_cmd_to_unit.exe
+C:\Users\anocha\Documents\Visual Studio 2015\Projects\mini_projeck_template\sugarloaf_cmd_to_unit\bin\Debug\sugarloaf_cmd_to_unit.pdb
+C:\Users\anocha\Documents\Visual Studio 2015\Projects\mini_projeck_template\sugarloaf_cmd_to_unit\obj\Debug\sugarloaf_cmd_to_unit.exe
+C:\Users\anocha\Documents\Visual Studio 2015\Projects\mini_projeck_template\sugarloaf_cmd_to_unit\obj\Debug\sugarloaf_cmd_to_unit.pdb
+D:\svn\2020_SENSITECTH_SugarLoaf_Automation\2.Design Documents\7.Test Application Program\Main Test Application\Template 10 header1\Resources\sugarloaf_cmd_to_unit\bin\Debug\sugarloaf_cmd_to_unit.exe.config
+D:\svn\2020_SENSITECTH_SugarLoaf_Automation\2.Design Documents\7.Test Application Program\Main Test Application\Template 10 header1\Resources\sugarloaf_cmd_to_unit\bin\Debug\sugarloaf_cmd_to_unit.exe
+D:\svn\2020_SENSITECTH_SugarLoaf_Automation\2.Design Documents\7.Test Application Program\Main Test Application\Template 10 header1\Resources\sugarloaf_cmd_to_unit\bin\Debug\sugarloaf_cmd_to_unit.pdb
+D:\svn\2020_SENSITECTH_SugarLoaf_Automation\2.Design Documents\7.Test Application Program\Main Test Application\Template 10 header1\Resources\sugarloaf_cmd_to_unit\obj\Debug\sugarloaf_cmd_to_unit.exe
+D:\svn\2020_SENSITECTH_SugarLoaf_Automation\2.Design Documents\7.Test Application Program\Main Test Application\Template 10 header1\Resources\sugarloaf_cmd_to_unit\obj\Debug\sugarloaf_cmd_to_unit.pdb
+C:\Users\anocha\Desktop\Template 10 header\Resources\sugarloaf_cmd_to_unit\bin\Debug\sugarloaf_cmd_to_unit.exe.config
+C:\Users\anocha\Desktop\Template 10 header\Resources\sugarloaf_cmd_to_unit\obj\Debug\sugarloaf_cmd_to_unit.exe
+C:\Users\anocha\Desktop\Template 10 header\Resources\sugarloaf_cmd_to_unit\obj\Debug\sugarloaf_cmd_to_unit.pdb
+C:\Users\anocha\Desktop\Template 10 header\Resources\sugarloaf_cmd_to_unit\bin\Debug\sugarloaf_cmd_to_unit.exe
+C:\Users\anocha\Desktop\Template 10 header\Resources\sugarloaf_cmd_to_unit\bin\Debug\sugarloaf_cmd_to_unit.pdb
+C:\Users\anocha\Desktop\Template 10 header\Resources\sugarloaf_cmd_to_unit\obj\Debug\sugarloaf_cmd_to_unit.csprojResolveAssemblyReference.cache
+D:\SVN\2020_SENSITECTH_SugarLoaf_Automation\2.Design Documents\7.Test Application Program\Main Test Application\Template 10 header2\Resources\sugarloaf_cmd_to_unit\bin\Debug\sugarloaf_cmd_to_unit.exe.config
+D:\SVN\2020_SENSITECTH_SugarLoaf_Automation\2.Design Documents\7.Test Application Program\Main Test Application\Template 10 header2\Resources\sugarloaf_cmd_to_unit\bin\Debug\sugarloaf_cmd_to_unit.exe
+D:\SVN\2020_SENSITECTH_SugarLoaf_Automation\2.Design Documents\7.Test Application Program\Main Test Application\Template 10 header2\Resources\sugarloaf_cmd_to_unit\bin\Debug\sugarloaf_cmd_to_unit.pdb
+D:\SVN\2020_SENSITECTH_SugarLoaf_Automation\2.Design Documents\7.Test Application Program\Main Test Application\Template 10 header2\Resources\sugarloaf_cmd_to_unit\obj\Debug\sugarloaf_cmd_to_unit.csprojAssemblyReference.cache
+D:\SVN\2020_SENSITECTH_SugarLoaf_Automation\2.Design Documents\7.Test Application Program\Main Test Application\Template 10 header2\Resources\sugarloaf_cmd_to_unit\obj\Debug\sugarloaf_cmd_to_unit.csproj.CoreCompileInputs.cache
+D:\SVN\2020_SENSITECTH_SugarLoaf_Automation\2.Design Documents\7.Test Application Program\Main Test Application\Template 10 header2\Resources\sugarloaf_cmd_to_unit\obj\Debug\sugarloaf_cmd_to_unit.exe
+D:\SVN\2020_SENSITECTH_SugarLoaf_Automation\2.Design Documents\7.Test Application Program\Main Test Application\Template 10 header2\Resources\sugarloaf_cmd_to_unit\obj\Debug\sugarloaf_cmd_to_unit.pdb
+D:\svn\2020_SENSITECTH_SugarLoaf_Automation\2.Design Documents\7.Test Application Program\Main Test Application\Template 10 header1\Resources\sugarloaf_cmd_to_unit\obj\Debug\sugarloaf_cmd_to_unit.csprojAssemblyReference.cache
+D:\svn\2020_SENSITECTH_SugarLoaf_Automation\2.Design Documents\7.Test Application Program\Main Test Application\Template 10 header1\Resources\sugarloaf_cmd_to_unit\obj\Debug\sugarloaf_cmd_to_unit.csproj.CoreCompileInputs.cache
+C:\Users\anocha\Desktop\sugarloaf_cmd_to_unit\bin\Debug\sugarloaf_cmd_to_unit.exe.config
+C:\Users\anocha\Desktop\sugarloaf_cmd_to_unit\obj\Debug\sugarloaf_cmd_to_unit.exe
+C:\Users\anocha\Desktop\sugarloaf_cmd_to_unit\obj\Debug\sugarloaf_cmd_to_unit.pdb
+C:\Users\anocha\Desktop\sugarloaf_cmd_to_unit\bin\Debug\sugarloaf_cmd_to_unit.exe
+C:\Users\anocha\Desktop\sugarloaf_cmd_to_unit\bin\Debug\sugarloaf_cmd_to_unit.pdb
+C:\Users\anocha\Desktop\sugarloaf_cmd_to_unit\obj\Debug\sugarloaf_cmd_to_unit.csprojResolveAssemblyReference.cache
+D:\Projects C#\mini_projeck_template\sugarloaf_cmd_to_unit\bin\Debug\sugarloaf_cmd_to_unit.exe.config
+D:\Projects C#\mini_projeck_template\sugarloaf_cmd_to_unit\obj\Debug\sugarloaf_cmd_to_unit.exe
+D:\Projects C#\mini_projeck_template\sugarloaf_cmd_to_unit\obj\Debug\sugarloaf_cmd_to_unit.pdb
+D:\Projects C#\mini_projeck_template\sugarloaf_cmd_to_unit\bin\Debug\sugarloaf_cmd_to_unit.exe
+D:\Projects C#\mini_projeck_template\sugarloaf_cmd_to_unit\bin\Debug\sugarloaf_cmd_to_unit.pdb
+D:\Projects C#\mini_projeck_template\sugarloaf_cmd_to_unit\obj\Debug\sugarloaf_cmd_to_unit.csprojResolveAssemblyReference.cache
+D:\SvnServer\Projects C#\mini_projeck_template\sugarloaf_cmd_to_unit\bin\Debug\sugarloaf_cmd_to_unit.exe.config
+D:\SvnServer\Projects C#\mini_projeck_template\sugarloaf_cmd_to_unit\obj\Debug\sugarloaf_cmd_to_unit.exe
+D:\SvnServer\Projects C#\mini_projeck_template\sugarloaf_cmd_to_unit\obj\Debug\sugarloaf_cmd_to_unit.pdb
+D:\SvnServer\Projects C#\mini_projeck_template\sugarloaf_cmd_to_unit\bin\Debug\sugarloaf_cmd_to_unit.exe
+D:\SvnServer\Projects C#\mini_projeck_template\sugarloaf_cmd_to_unit\bin\Debug\sugarloaf_cmd_to_unit.pdb
+D:\SvnServer\Projects C#\mini_projeck_template\sugarloaf_cmd_to_unit\obj\Debug\sugarloaf_cmd_to_unit.csprojResolveAssemblyReference.cache
+D:\ServerSvn\Projects C#\mini_projeck_template\sugarloaf_cmd_to_unit\bin\Debug\sugarloaf_cmd_to_unit.exe.config
+D:\ServerSvn\Projects C#\mini_projeck_template\sugarloaf_cmd_to_unit\bin\Debug\sugarloaf_cmd_to_unit.exe
+D:\ServerSvn\Projects C#\mini_projeck_template\sugarloaf_cmd_to_unit\bin\Debug\sugarloaf_cmd_to_unit.pdb
+D:\ServerSvn\Projects C#\mini_projeck_template\sugarloaf_cmd_to_unit\obj\Debug\sugarloaf_cmd_to_unit.csproj.AssemblyReference.cache
+D:\ServerSvn\Projects C#\mini_projeck_template\sugarloaf_cmd_to_unit\obj\Debug\sugarloaf_cmd_to_unit.csproj.SuggestedBindingRedirects.cache
+D:\ServerSvn\Projects C#\mini_projeck_template\sugarloaf_cmd_to_unit\obj\Debug\sugarloaf_cmd_to_unit.csproj.CoreCompileInputs.cache
+D:\ServerSvn\Projects C#\mini_projeck_template\sugarloaf_cmd_to_unit\obj\Debug\sugarloaf_cmd_to_unit.exe
+D:\ServerSvn\Projects C#\mini_projeck_template\sugarloaf_cmd_to_unit\obj\Debug\sugarloaf_cmd_to_unit.pdb

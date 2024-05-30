@@ -1,0 +1,12 @@
+C:\Users\anocha\Desktop\Template 4 header\mini_projeck\cmd_to_unit\bin\Debug\cmd_to_unit.exe.config
+C:\Users\anocha\Desktop\Template 4 header\mini_projeck\cmd_to_unit\bin\Debug\cmd_to_unit.exe
+C:\Users\anocha\Desktop\Template 4 header\mini_projeck\cmd_to_unit\bin\Debug\cmd_to_unit.pdb
+C:\Users\anocha\Desktop\Template 4 header\mini_projeck\cmd_to_unit\obj\Debug\cmd_to_unit.csprojResolveAssemblyReference.cache
+C:\Users\anocha\Desktop\Template 4 header\mini_projeck\cmd_to_unit\obj\Debug\cmd_to_unit.exe
+C:\Users\anocha\Desktop\Template 4 header\mini_projeck\cmd_to_unit\obj\Debug\cmd_to_unit.pdb
+C:\Users\anocha\Documents\Visual Studio 2015\Projects\mini_projeck_template\cmd_to_unit\bin\Debug\cmd_to_unit.exe.config
+C:\Users\anocha\Documents\Visual Studio 2015\Projects\mini_projeck_template\cmd_to_unit\obj\Debug\cmd_to_unit.exe
+C:\Users\anocha\Documents\Visual Studio 2015\Projects\mini_projeck_template\cmd_to_unit\obj\Debug\cmd_to_unit.pdb
+C:\Users\anocha\Documents\Visual Studio 2015\Projects\mini_projeck_template\sugarloaf_cmd_to_unit\bin\Debug\cmd_to_unit.exe.config
+C:\Users\anocha\Documents\Visual Studio 2015\Projects\mini_projeck_template\sugarloaf_cmd_to_unit\obj\Debug\cmd_to_unit.exe
+C:\Users\anocha\Documents\Visual Studio 2015\Projects\mini_projeck_template\sugarloaf_cmd_to_unit\obj\Debug\cmd_to_unit.pdb
